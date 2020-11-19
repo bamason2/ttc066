@@ -1,4 +1,6 @@
-# Engine Modelling Lab
+# TTC066 Vehicle Dynamics and Simulation
+
+## Engine Modelling Lab
 
 In this laboratory you will be making use of Simulink to model a naturally aspirated, 5l V8 Jaguar Engine using parameters and data obtained by measurement and test during experimentation.
 
@@ -55,7 +57,9 @@ From the torque data (or by addition to your model) calculate the engine brake p
 ## Additional information
 
 ### AJ133 Power and torque curve
+
 ![image](curve.png)
 
 ### AJ133 Power and torque data
+
 ![image](table.png)
