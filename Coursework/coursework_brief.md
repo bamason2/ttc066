@@ -58,8 +58,8 @@ The report must be written in a formal, technical style. The first page should i
 
 Your report will be assessed in terms of:
 
-* Your description of the vehicle testing. [20%]
-* Your analysis and discussion of the measured data.  [20%]
-* Your approach to, and comparative success in tuning the model parameters. [20%]
-* Your discussions and commentary on the model/testing methods and errors noted. [20%]
-* Clear and concise reporting style and general quality and completeness of the report. [20%]
+* Your description of the vehicle testing results. This should include a number of plots that show the results obtained (these should all be legible and labelled with title, axis labels and a short description included within a figure label). [20%]
+* Your analysis and discussion of the measured data,  model and system investigation using the model.  This may include spectral analysis and in-depth discussion of how the model parameters influence observed bevahiour, etc.  [20%]
+* Your approach to, and comparative success in tuning the model parameters. How you tuned the parameters to match measurement data overall (i.e. vehicle speed) and for a selection of subsystems e.g. engine, driveshaft, etc a more detailed analysis and parameter tuning.[20%]
+* Your discussions and commentary on the model/testing methods and errors noted.  This should include some statement with evidence that shows how improvement in the test procedures, instrumentatoin, analysis etc could lead to improved model tuning results.  [20%]
+* Clear and concise reporting style and general quality and completeness of the report. You should aim for the sustantive use of 3-5 peer reviewed sources of information to augment the analysis and discussion parts of your report. [20%]
